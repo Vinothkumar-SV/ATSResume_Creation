@@ -38,7 +38,7 @@ This platform helps users generate optimized resumes faster with modern formatti
 
 <div align="center">
 
-[<img src="https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif" width="760"/>](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBhb2Q0Ym02dzVqcHVvdWZjZ3U3cGswdXpjZmNkOHA2N3F3a2Y1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMh7cCPinmjCYBkMxG/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBhb2Q0Ym02dzVqcHVvdWZjZ3U3cGswdXpjZmNkOHA2N3F3a2Y1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMh7cCPinmjCYBkMxG/giphy.gif" width="760"/>
 
 </div>
 
