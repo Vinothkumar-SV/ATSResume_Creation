@@ -1,0 +1,135 @@
+{
+  "contact": {
+    "fullName": "John Doe",
+    "email": "john@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "linkedIn": "linkedin.com/in/johndoe",
+    "portfolio": "johndoe.dev"
+  },
+  "professional_summary": "Experienced Full Stack Developer with 5+ years of expertise in building scalable web applications using modern technologies. Proven track record of delivering high-quality solutions and collaborating effectively with cross-functional teams.",
+  "experience": [
+    {
+      "jobTitle": "Senior Full Stack Developer",
+      "company": "Tech Corp",
+      "location": "San Francisco, CA",
+      "startDate": "Jan 2020",
+      "endDate": "Present",
+      "isCurrentRole": true,
+      "description": [
+        "Led development of microservices architecture using Node.js, Docker, and Kubernetes, improving system scalability by 60%",
+        "Implemented real-time data processing pipeline using Apache Kafka, handling 1M+ events per day",
+        "Optimized database queries and API responses, reducing average load time from 2s to 500ms (75% improvement)",
+        "Mentored 3 junior developers and conducted comprehensive code reviews to maintain code quality standards",
+        "Architected CI/CD pipeline using GitHub Actions, reducing deployment time from 30min to 5min"
+      ]
+    },
+    {
+      "jobTitle": "Full Stack Developer",
+      "company": "StartUp Inc",
+      "location": "San Francisco, CA",
+      "startDate": "Jun 2018",
+      "endDate": "Dec 2019",
+      "isCurrentRole": false,
+      "description": [
+        "Developed 40+ React components and implemented responsive UI designs using TailwindCSS",
+        "Built RESTful and GraphQL APIs using Express.js and Apollo Server",
+        "Implemented authentication and authorization systems using JWT and OAuth 2.0",
+        "Collaborated with design team to translate Figma mockups into pixel-perfect implementations",
+        "Reduced bundle size by 45% through code splitting and lazy loading optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduationDate": "May 2018",
+      "gpa": "3.8",
+      "details": "Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems, Computer Networks"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "category": "Frontend Development",
+      "skills": [
+        "React",
+        "Vue.js",
+        "Next.js",
+        "TailwindCSS",
+        "Redux",
+        "Material-UI",
+        "Responsive Design"
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Django",
+        "FastAPI",
+        "GraphQL",
+        "REST APIs"
+      ]
+    },
+    {
+      "category": "Databases & Tools",
+      "skills": [
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Git",
+        "Jenkins",
+        "GitHub Actions"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Real-time Collaboration Platform",
+      "description": "Developed a collaborative project management tool similar to Figma with real-time synchronization across users",
+      "technologies": [
+        "React",
+        "Node.js",
+        "WebSocket",
+        "MongoDB",
+        "Docker"
+      ],
+      "link": "https://github.com/johndoe/collab-platform"
+    },
+    {
+      "title": "E-commerce Microservices",
+      "description": "Built scalable e-commerce platform using microservices architecture with independent deployment capabilities",
+      "technologies": [
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Apache Kafka"
+      ],
+      "link": "https://github.com/johndoe/ecommerce-ms"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect - Associate",
+    "Docker Certified Associate",
+    "Kubernetes Application Developer (CKAD)"
+  ]
+}

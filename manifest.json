@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "ATS Resume Generator",
+  "version": "1.0.0",
+  "description": "Generate ATS-optimized resumes from job descriptions",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "ATS Resume Generator"
+  }
+}
