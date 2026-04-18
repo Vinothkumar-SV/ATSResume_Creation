@@ -72,7 +72,7 @@ Download Professional Resume
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="720"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHgzN3pxMzRobTNtczNwaTliNGN4ZnpqcHh4YjJuemNiZ3l5ajhxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zN5xfuJBtbpnRDZncm/giphy.gif" width="720"/>
 
 </div>
 
