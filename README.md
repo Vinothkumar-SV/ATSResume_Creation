@@ -71,7 +71,7 @@ Download Professional Resume
 ## 🤖 AI Content Enhancement
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHgzN3pxMzRobTNtczNwaTliNGN4ZnpqcHh4YjJuemNiZ3l5ajhxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zN5xfuJBtbpnRDZncm/giphy.gif" width="760"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpzaG9zOWJnbmVqOW41bjRpeTl4MzN0Y2NsNm5haHA4YXFxZG05eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zN5xfuJBtbpnRDZncm/giphy.gif" width="760"/>
 </div>
 
 Generate:
